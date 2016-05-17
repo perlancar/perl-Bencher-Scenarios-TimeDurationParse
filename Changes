@@ -1,0 +1,6 @@
+Revision history for Bencher-Scenarios-TimeDurationParse
+
+0.001   2016-05-17 (PERLANCAR) (unreleased)
+
+        - First release, converted from benchmark script in
+          Time-Duration-Parse-AsHash.
