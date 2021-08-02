@@ -2,3 +2,4 @@ Bencher-Scenarios-TimeDurationParse-*
 .build
 *~
 nytprof*
+.DS_Store
